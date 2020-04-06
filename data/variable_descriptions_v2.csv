@@ -1,0 +1,50 @@
+Column,Description
+total_households,Totoal number of households in ward
+total_individuals,Total number of individuals in ward
+target_pct_vunerable,Percentage of large households who have to leave their premises for water
+dw_00,Percentage of dwellings of type: House or brick/concrete block structure on a separate stand or yard or on a farm
+dw_01,Percentage of dwellings of type: Traditional dwelling/hut/structure made of traditional materials
+dw_02,Percentage of dwellings of type: Flat or apartment in a block of flats
+dw_03,Percentage of dwellings of type: Cluster house in complex
+dw_04,Percentage of dwellings of type: Townhouse (semi-detached house in a complex)
+dw_05,Percentage of dwellings of type: Semi-detached house
+dw_06,Percentage of dwellings of type: House/flat/room in backyard
+dw_07,Percentage of dwellings of type: Informal dwelling (shack in backyard)
+dw_08,Percentage of dwellings of type: Informal dwelling (shack not in backyard e.g. in an informal/squatter settlement or on a farm)
+dw_09,Percentage of dwellings of type: Room/flatlet on a property or larger dwelling/servants quarters/granny flat
+dw_10,Percentage of dwellings of type: Caravan/tent
+dw_11,Percentage of dwellings of type: Other
+dw_12,Percentage of dwellings of type: Unspecified
+dw_13,Percentage of dwellings of type: Not applicable
+psa_00,Percentage listing present school attendance as:  Yes
+psa_01,Percentage listing present school attendance as:  No
+psa_02,Percentage listing present school attendance as:  Do not know
+psa_03,Percentage listing present school attendance as:  Unspecified
+psa_04,Percentage listing present school attendance as:  Not applicable
+stv_00,Percentage of households with Satellite TV:  Yes
+stv_01,Percentage of households with Satellite TV:  No
+car_00,Percentage of households with a car:  Yes
+car_01,Percentage of households with a car:  No
+lln_00,Percentage listing landline ownership as:  Yes
+lln_01,Percentage listing landline ownership as:  No
+lan_00,Percentage listing language as:  Afrikaans
+lan_01,Percentage listing language as:  English
+lan_02,Percentage listing language as:  IsiNdebele
+lan_03,Percentage listing language as:  IsiXhosa
+lan_04,Percentage listing language as:  IsiZulu
+lan_05,Percentage listing language as:  Sepedi
+lan_06,Percentage listing language as:  Sesotho
+lan_07,Percentage listing language as:  Setswana
+lan_08,Percentage listing language as:  Sign language
+lan_09,Percentage listing language as:  SiSwati
+lan_10,Percentage listing language as:  Tshivenda
+lan_11,Percentage listing language as:  Xitsonga
+lan_12,Percentage listing language as:  Other
+lan_13,Percentage listing language as:  Unspecified
+lan_14,Percentage listing language as:  Not applicable
+pg_00,Percentage in population group:  Black African
+pg_01,Percentage in population group:  Coloured
+pg_02,Percentage in population group:  Indian or Asian
+pg_03,Percentage in population group:  White
+pg_04,Percentage in population group:  Other
+lgt_00,Percentage using electricity for lighting
