@@ -27,7 +27,7 @@ cachetools==3.1.1
 catalogue==1.0.0
 catboost==0.22
 category-encoders==2.1.0
-certifi==2019.11.28
+certifi==2022.12.7
 cffi==1.14.0
 chainer==6.5.0
 chardet==3.0.4
